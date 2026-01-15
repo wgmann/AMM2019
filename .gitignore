@@ -1,0 +1,35 @@
+# --- Deny-all by default ---
+*
+
+# --- whitelist all directories at every depth
+!**/
+# --- but explicitly ignore this folder that is created by Pycharm IDE
+.idea/
+
+# --- whitelist repo control files ---
+!/.gitignore
+!README.md
+!index.md
+!index.html
+!LICENSE
+!LICENSE-CODE
+!.github/
+
+# --- whitelist config files ---
+!environment.yml
+!.env.example
+
+# --- whitelist code and data files ---
+!Code/AMM2019 - Archived data.ipynb
+!Code/AMM2019 - Archived data.pdf
+!Code/AMM2019 - Archived data - errata corrected.pdf
+!Code/AMM2019 - FRED API data.ipynb
+!Code/AMM2019 - FRED API data.pdf
+!Code/AMM2019 - FRED API data - simplified.ipynb
+!Code/AMM2019 - FRED API data - simplified.pdf
+!Data/BEA/Section1All_xls.xls
+!Data/BEA/Section5all_xls.xls
+!Data/BEA/Section5ALL_Hist.xls
+!Data/FRB/FRB_Z1.csv
+!Data/FRB/FRB_H15_SL.csv
+!Data/Moodys/BAA.xls

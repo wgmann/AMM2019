@@ -1,0 +1,13 @@
+name: AMM2019
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pandas
+  - fredapi
+  - notebook
+  - matplotlib
+  - python-dotenv
+  - statsmodels
+  - xlrd
+prefix: /home/william/miniforge3/envs/AMM2019
