@@ -2,7 +2,7 @@ This repo contains Jupyter notebooks that explain how we constructed aggregate i
 
 There are three different scripts in this repo:
 
-- [AMM2019 - Archived data.ipynb](https://wgjm1986.github.io/AMM2019/Code/AMM2019 - Archived data.ipynb) - This notebook replicates Figures 1 and 2 of the published paper using data that we archived at the time of publication. (PDF version of the notebook output)
+- [AMM2019 - Archived data.ipynb](https://wgjm1986.github.io/AMM2019/Code/AMM2019%20-%20Archived%20data.ipynb) - This notebook replicates Figures 1 and 2 of the published paper using data that we archived at the time of publication. (PDF version of the notebook output)
 	- The algorithm in our paper and in this notebook was designed to follow Hall (2001) as closely as possible, for consistency with prior literature. The sample ends in 2015.
 	- There are two minor typos noted in the code, which can be corrected with negligible impact on the results. (PDF of the output with these typos corrected)
 - `AMM2019 - FRED API data.ipynb` - This notebook implements the same algorithm as the above, but downloading all data from FRED via API, which allows the results to be updated through the most recent available data. (PDF)
