@@ -1,4 +1,4 @@
-This [repo](https://github.com/wgjm1986/AMM2019) contains Jupyter notebooks that explain how we constructed aggregate investment and Tobin's Q as used in the first two figures of Andrei, Mann, and Moyen (JFE 2019), and how to repeat this process as of 2026 using data available through the FRED API. We hope these files are helpful to those interested in working in this area.
+This [repo](https://github.com/wgjm1986/AMM2019) contains Jupyter notebooks that explain how we constructed aggregate investment and Tobin's Q as used in the first two figures of Andrei, Mann, and Moyen (JFE 2019), and how to repeat this process as of 2026 using data available through the FRED API. We hope these files are helpful to those interested in working in this area. If you use these resources, please cite our paper as appropriate.
 
 There are three different scripts in this repo:
 
