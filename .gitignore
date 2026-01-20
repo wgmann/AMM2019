@@ -15,6 +15,7 @@
 !LICENSE-CODE
 !.github/
 !CITATION.cff
+!_config.yml
 
 # --- whitelist config files ---
 !environment.yml
